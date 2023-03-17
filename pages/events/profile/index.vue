@@ -1,9 +1,7 @@
 <script lang="ts" setup></script>
 
 <template>
-	<div>
-		<slot />
-	</div>
+	<div>Profile-events</div>
 </template>
 
 <style scoped></style>
