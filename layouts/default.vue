@@ -1,9 +1,12 @@
 <script lang="ts" setup></script>
 
 <template>
-	<div>
+	<div class="defaultLayout">
+		<p>default layout</p>
 		<slot />
 	</div>
 </template>
 
-<style scoped></style>
+<style scoped lang="scss">
+
+</style>
